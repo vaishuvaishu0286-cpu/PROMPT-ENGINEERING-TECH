@@ -12,6 +12,8 @@ Built with Python, Streamlit, and the Groq API (Hugging Face as a fallback).
 4. You get one card per technique, showing the answer, word count, response time, and the exact prompt that was sent.
 5. You can download all answers as a Markdown file.
 
+https://prompt-engineering-tech-bxbjyhckgxfn26qq9rbguj.streamlit.app
+
 ## Techniques included
 
 | Technique | Idea |
