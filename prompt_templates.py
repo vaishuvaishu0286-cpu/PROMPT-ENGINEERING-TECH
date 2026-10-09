@@ -1,4 +1,4 @@
-"""Prompt-engineering techniques used by ThinkBuddy."""
+"""Prompt-engineering techniques used by PromptLens."""
 
 TECHNIQUES = {
     "Zero-Shot": {
